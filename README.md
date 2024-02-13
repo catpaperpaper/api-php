@@ -6,4 +6,4 @@ GET /question/list
 GET /question/id/{id}
 
 
-Simple UI example calling the API with a CURL request - https://cleemakethings.com/api/test.php
+Simple UI example calling the API with a CURL request - https://cleemakethings.com/api/quiz
